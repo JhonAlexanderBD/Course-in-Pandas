@@ -1,7 +1,11 @@
-# Course
+# Course                                                                     
+This is Course is design to understand how pandas can work in data science enviroment as tool
+
 ![](https://github.com/JhonAlexanderBD/Course-in-Pandas/blob/main/images/pandas.jpg)
 
-This is Course is design to understand how pandas can work in data science enviroment as tool
+Contact me: jhonalexander@protonmail.com
+
+
 
 
 
