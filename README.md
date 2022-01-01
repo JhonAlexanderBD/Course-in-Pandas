@@ -15,4 +15,7 @@ This is Course is design to understand how pandas can work in data science envir
 + Item C
     * Item C 1
     * Item C 2
-    * Item C 3
+    * Item C 3)
+
+
+
