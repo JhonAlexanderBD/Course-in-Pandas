@@ -7,15 +7,20 @@ This is Course is design to understand how pandas can work in data science envir
 
 ****Table of Contents****
 
-+ Item A
-+ Item B
-    + Item B 1
-    + Item B 2
-    + Item B 3
-+ Item C
-    * Item C 1
-    * Item C 2
-    * Item C 3)
++ Introduction
+
++ Before start
+    + lists and some concepts of arrays
+    + series and index
+    + dictinoary to data frame
+    
++ Basic functions
+    * Import and export 
+    * types of variables
+    * manipulate and understan a data frame 
+
++ Practical Samples
+      
 
 
 
