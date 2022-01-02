@@ -14,7 +14,7 @@ This Course is design to understand how pandas can work in data science envirome
 + Introduction
 
 + Before start
-    + [lists and some concepts of arrays](https://github.com/JhonAlexanderBD/Pandas/blob/main/Notebooks/lists.ipybn)
+    + [List and indexing](https://github.com/JhonAlexanderBD/Pandas/blob/main/Notebooks/list.ipynb)
     + series and index
     + dictinoary to data frame
     
