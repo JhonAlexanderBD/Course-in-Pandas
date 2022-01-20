@@ -5,16 +5,12 @@ This Course is design to understand how pandas can work in data science envirome
 
 >   Contact :  jhonalexander@protonmail.com
 
-
-
-
-
 ****Table of Contents****
 
 + Introduction
 
 + Before start
-    + [List and indexing](https://github.com/JhonAlexanderBD/Pandas/blob/main/Notebooks/list.ipynb)
+    + [List and indexing](https://github.com/JhonAlexanderBD/Pandas/blob/main/Notebooks/List%20and%20indexing%20.ipynb)
     + series and index
     + dictinoary to data frame
     
